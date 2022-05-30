@@ -1,0 +1,35 @@
+input,.form-select{
+
+    width:100%;
+    border: none;
+    border-bottom: 1.5px solid rgb(164, 157, 157);
+    box-sizing: border-box;
+}
+input:focus{
+    outline:none;
+}
+
+
+.flagdiv{
+    position: relative;
+}
+
+.flag{
+    position: absolute;
+    top:-10px;
+    width:50%;
+    height:100%;
+}
+
+@media (min-width:576px) and (max-width:1300px){
+    .loginimage > img{
+        width:50%;
+    }
+}
+
+
+@media (min-width:0px) and (max-width:575px){
+    .loginimage > img{
+        width:75%;
+    }
+}

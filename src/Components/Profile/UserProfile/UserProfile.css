@@ -1,0 +1,15 @@
+.userProfile .card:hover{
+    transform: scale(1);
+}
+
+input {
+
+    width: 100%;
+    border: none;
+    border-bottom: 1.5px solid rgb(164, 157, 157);
+    box-sizing: border-box;
+}
+
+input:focus {
+    outline: none;
+}

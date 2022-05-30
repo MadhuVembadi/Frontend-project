@@ -1,0 +1,113 @@
+.realme .list-group h3 {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.realme .list-group h3:hover {
+    text-decoration: underline red;
+    text-underline-offset: 7px;
+}
+
+@media (min-width:545px) and (max-width:1300px) {
+    .realme .list-group h3 {
+        font-size: 1.5vw;
+    }
+
+}
+
+@media (min-width:400px) and (max-width:546px) {
+    .realme .list-group h3 {
+        font-size: 2.2vw;
+    }
+}
+
+@media (min-width:0px) and (max-width:390px) {
+    .realme .list-group h3 {
+        font-size: 3vw;
+    }
+}
+
+.realme .card:hover {
+    transform: scale(1);
+}
+
+.realme .card {
+    background-color: black;
+    border: 3px solid;
+    border-image: linear-gradient(to bottom, #bdc3c7, #2c3e50);
+    border-image-slice: 1;
+    padding: 25px;
+}
+
+.realme .card h5,h3 {
+    font-size: 2vw;
+}
+
+.realme .brandnew h3{
+    font-size: 2vw;
+}
+
+@media (min-width:0px) and (max-width:576px) {
+    .realme .row2 {
+        justify-content: center;
+    }
+    .realme .card h5,h3 {
+        font-size: 3vw;
+    }
+    .realme .brandnew h3 {
+        font-size: 3vw;
+    }
+}
+
+.realme .row2 h3 {
+    background: -webkit-linear-gradient(right, #076585, #fff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.realme .selfie {
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+    object-position: 5vw -30%;
+}
+
+.realme .selfiecard {
+    /* background: linear-gradient(to bottom left, #076585, #fff); */
+    animation-name: backgroundChange;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes backgroundChange {
+    0% {
+        background: linear-gradient(to bottom left, #076585, #fff);
+    }
+
+    /* 25%  {background:linear-gradient(to bottom left, #fff,#076585);} */
+    50% {
+        background: linear-gradient(to bottom left, #fff, #076585);
+    }
+
+    100% {
+        background: linear-gradient(to bottom left, #076585, #fff);
+    }
+}
+
+.compareicon{
+    font-size: 5vw;
+}
+
+@media (min-width:576px) and (max-width:1300px){
+    .cmptxt{
+        font-size:1.5vw;
+    }
+}
+
+
+@media (min-width:0px) and (max-width:575px){
+    .cmptxt{
+        font-size:2.5vw;
+    }
+}
+

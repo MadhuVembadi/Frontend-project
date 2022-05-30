@@ -1,0 +1,22 @@
+.orders .card:hover{
+    transform: scale(1);
+}
+
+@media (min-width:0px) and (max-width:768px){
+.orders .card-body {
+        font-size: 2.2vw;
+    }
+.orders .card-body #model{
+    font-size: 3vw;
+}
+.orders .card-title{
+    font-size: 2.2vw;
+    }
+
+.orders #deleteAll{
+    font-size: 2.2vw;
+}
+.orders #deleteicon{
+    width: 5vw;
+}
+}

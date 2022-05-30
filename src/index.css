@@ -1,0 +1,546 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.active {
+  text-decoration: underline 2px red;
+  text-underline-offset: 6px;
+}
+
+.card {
+  position: relative;
+  padding: 20px 16px 20px 16px;
+  transition: transform .2s;
+  border: none;
+}
+
+.captions {
+  position: absolute;
+  top: 5px;
+  display: block;
+  text-align: center;
+  text-decoration: underline 2px red;
+  text-underline-offset: 6px;
+}
+
+.card:hover {
+  transform: scale(1.02)
+}
+
+.cardcontent {
+  position: absolute;
+  top: 0px;
+}
+
+.horizontal-scroll {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.con {
+  height: 350px;
+}
+
+.horizontal-scroll .btn-scroll {
+  background-color: 'gray';
+  opacity: calc(1);
+  color: #999;
+  box-shadow: 0 0 10px #999;
+  padding: 5px 8px;
+  border: 0;
+  border-radius: 50%;
+  margin: 0 5px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.picks {
+  font-family: 'Dancing Script', cursive;
+  text-decoration: underline 2px gray;
+  text-underline-offset: 5px;
+}
+
+
+.main {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  left: 0;
+  transition: 0.5s all ease-out;
+  height: 100%;
+}
+
+.cards {
+  width: 280px;
+  height: 100%;
+  margin: 0px 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5%;
+  border: none;
+}
+
+.phone {
+  position: absolute;
+  bottom: 14%;
+  left: 0%;
+  width: 100%;
+}
+
+@media (min-width:1200px) and (max-width:1300px) {
+  .monthspicks {
+    width: 1230px;
+    position: relative;
+    left: -6%;
+  }
+
+  .phone {
+    font-size: 180%;
+  }
+
+  .newsletter {
+    width: 800px;
+  }
+
+  .cardcontent{
+    font-size: 100%;
+  }
+
+}
+
+@media (min-width:0px) and (max-width:995px) {
+  .phone {
+    font-size: 90%;
+  }
+}
+
+@media (min-width:0px) and (max-width:350px) {
+  .pickcards .card-title {
+    position: absolute;
+    bottom: 0px;
+    font-size: 70%;
+  }
+}
+
+@media (min-width:0px) and (max-width:435px){
+
+  .cardcontent .card-title{
+    position: relative;
+    font-size:4vw;
+  }
+
+  .cardcontent .card-subtitle{
+    position: relative;
+    font-size:4vw;
+  }
+}
+
+@media (min-width:576px) and (max-width:1300px){
+
+  .lt h3{
+    font-size: 2vw;
+  }
+}
+
+@media (min-width:0px) and (max-width:575px){
+
+  .lt h3{
+    font-size: 4vw;
+  }
+}
+
+
+@media (min-width:0px) and (max-width:780px) {
+  .buy {
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+@media (min-width:781px) and (max-width:1300px) {
+  .buy {
+    font-size: 75%;
+    position: absolute;
+    bottom: 2%;
+    left: 10px;
+    background-color: black;
+  }
+}
+
+
+.card3 .card-title {
+  position: absolute;
+  top: 60%;
+  left: 2%;
+  font-size: 90%;
+}
+
+
+.card2 .card-title {
+  position: absolute;
+  bottom: 8%;
+  left: 0%;
+  font-size: 90%;
+  text-align: center;
+}
+
+.card1 .card-title {
+  left: 2%;
+}
+
+.card4 .card-title {
+  left: 2%;
+}
+
+.card5 .card-title {
+  left: 2%;
+}
+
+.newsletter:hover {
+  transform: scale(1);
+}
+
+.newsletter {
+  position: relative;
+}
+
+.newscontent {
+  position: absolute;
+  top: 50%;
+  left: 6%;
+  font-size:2vw;
+}
+
+.newscontent input{
+  width:50%;
+}
+
+@media (min-width:0px) and (max-width:380px){
+  .newscontent {
+    position: absolute;
+    top: 35%;
+    left: 6%;
+  }
+
+  .newscontent .card-title{
+    font-size: 3vw;
+  }
+
+  .newscontent .card-subtitle{
+    font-size: 3vw;
+  }
+
+  .newscontent input{
+    width:75%;
+  }
+
+  .newscontent button{
+    font-size:4vw;
+  }
+}
+
+.se {
+  font-size: 3vw;
+  background: -webkit-linear-gradient(rgb(232, 197, 236), rgb(141, 69, 175));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.pro {
+
+  font-size: 3vw;
+  background: -webkit-linear-gradient(rgb(204, 164, 164), rgb(114, 21, 21));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.simple {
+
+  font-size: 3vw;
+  background: -webkit-linear-gradient(rgb(204, 164, 164), rgb(114, 21, 21));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.apple .card:hover {
+  transform: none;
+}
+
+.applecompare,
+.onepluscompare .card:hover {
+  transform: none;
+}
+
+
+@media (min-width:0px) and (max-width:1030px) {
+
+  .simple,
+  .pro,
+  .se {
+    font-size: 4vw;
+  }
+
+  .iphonese {
+    position: absolute;
+    top: 10%;
+    left: -40%;
+    font-size: 80%;
+  }
+
+
+}
+
+@media (min-width:1031px) and (max-width:1500px) {
+
+  .iphonese {
+    position: absolute;
+    top: 15%;
+    right: 35%;
+  }
+}
+
+@media (min-width:578px) and (max-width:1300px) {
+  .ios {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media (min-width:280px) and (max-width:577px) {
+  .ios {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50%;
+  }
+}
+
+@media (min-width:0px) and (max-width:279px) {
+  .ios {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40%;
+  }
+}
+
+.applecomparingcard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.apple .card-img-overlay>img {
+  width: 100px;
+}
+
+
+
+@media (min-width:0px) and (max-width:475px) {
+  .apple .card-img-overlay>h3 {
+    font-size: 80%;
+    width: 75%;
+  }
+
+  .apple .card-img-overlay>img {
+    width: 50px;
+  }
+
+  .apple .card-img-overlay>button {
+    font-size: 2.5vw;
+  }
+}
+
+.carouseldis {
+  position: relative;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 20%;
+  left: -20%;
+}
+
+.oneplus .comparingcard:hover {
+  transform: scale(1);
+}
+
+@media (min-width:461px) and (max-width:1300px) {
+  .oneplus .comparingcard {
+    position: relative;
+  }
+
+  .comparingcard .card-img-overlay {
+    position: absolute;
+    top: 18%;
+    left: 10%;
+  }
+
+  .oneplus .card-img-overlay>img {
+    width: 6vw;
+  }
+
+  .oneplus .card-img-overlay>h3 {
+    font-size: 3vw;
+  }
+
+  .oneplus .comparingcard .card-img-overlay > button{
+    font-size: 1.3vw;
+  }
+
+}
+
+@media (min-width:0px) and (max-width:460px) {
+
+  .oneplus .card-img-overlay>h3 {
+    font-size: 5vw;
+  }
+
+  .oneplus .card-img-overlay>img {
+    width: 10vw;
+  }
+
+  .oneplus .comparingcard .card-img-overlay > button{
+    font-size: 3vw;
+  }
+
+}
+
+
+.samsung .card:hover {
+  transform: scale(1);
+}
+
+@media (min-width:401px) and (max-width:1300px) {
+  .samsung>.card .card-img-overlay {
+    position: absolute;
+    width: 50%;
+    top: 30%;
+    left: 50%;
+  }
+
+  .samsung>.card .card-img-overlay h3 {
+    font-size: 3vw;
+  }
+
+  .samsung>.card .card-img-overlay p {
+    font-size: 1.8vw;
+  }
+
+  .samsung>.card .card-img-overlay>div {
+    font-size: 1.5vw;
+  }
+
+  .samsung>.card .card-img-overlay div button {
+    font-size: 1.5vw;
+  }
+}
+
+@media (min-width:0px) and (max-width:400px) {
+  .samsung>.card .card-img-overlay {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .samsung>.card .card-img-overlay h3 {
+    font-size: 4.5vw;
+    text-align: center;
+  }
+
+  .samsung>.card .card-img-overlay p {
+    font-size: 3.5vw;
+    text-align: center;
+  }
+
+  .samsung>.card .card-img-overlay>div {
+    font-size: 3.5vw;
+    text-align: center;
+  }
+
+  .samsung>.card .card-img-overlay div button {
+    font-size: 3.5vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .samsung .second {
+    margin-top: 10%;
+  }
+}
+
+@media (min-width:430px) and (max-width:1300px) {
+  .samsungcompare .cmptxt {
+    font-size: 1.5vw;
+  }
+}
+
+@media (min-width:0px) and (max-width:429px) {
+  .samsungcompare .cmptxt {
+    font-size: 3vw;
+  }
+}
+
+.modal-content {
+  background: rgba(0, 0, 0, 0);
+  color: white;
+}
+
+.modal-content .btn-close {
+  background-color: white;
+}
+
+
+body{
+  position: relative;
+}
+
+.foot{
+  position: absolute;
+  width: 100%;
+}
+
+
+
+@media (min-width:0px) and (max-width:576px) {
+  .apple > #Allmodels h3,span {
+    font-size: 4vw;
+  }
+
+  .oneplus > #Allmodels h3,span {
+    font-size: 4vw;
+  }
+  .samsung > #Allmodels h3,span {
+    font-size: 4vw;
+  }
+  .realme > #Allmodels h3,span {
+    font-size: 4vw;
+  }
+}

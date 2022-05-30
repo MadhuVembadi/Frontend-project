@@ -1,0 +1,701 @@
+{
+  "apple": [
+    {
+      "brand": "apple",
+      "model": "iPhone 13 Pro",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone13_pro__f7s0ruhe13qm_large_2x.jpg",
+      "tagline": "The ultimate iPhone.",
+      "price": "119900/-",
+      "id": "1"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone 13",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone13__w5p2n5rp79um_large_2x.jpg",
+      "tagline": "A total powerhouse.",
+      "price": "69900/-",
+      "id": "2"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone SE",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphoneSE_3rd_gen__e5larnogqdkm_large_2x.jpg",
+      "tagline": "Serious power. Serious value.",
+      "price": "43900/-",
+      "id": "3"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone 12",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone12__d797xq59zw02_large_2x.jpg",
+      "tagline": "As amazing as ever",
+      "price": "59900/-",
+      "id": "4"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone 12 Pro Max",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone12_pro_max__cj8ffo39zg9y_large_2x.jpg",
+      "tagline": "Blast past fast.",
+      "price": "79900/-",
+      "id": "5"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone 12 Mini",
+      "image": "https://www.apple.com/v/iphone-12/key-features/g/images/overview/compare/compare_iphone_12__fcltt76hede2_medium_2x.jpg",
+      "tagline": "Handy",
+      "price": "89900/-",
+      "id": "6"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone 11",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone11__26yyz21ll02i_large_2x.jpg",
+      "tagline": "Powerful.",
+      "price": "46700/-",
+      "id": "7"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone Xs",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphoneXS__dd7tn5s1ligm_large_2x.jpg",
+      "tagline": "The biggie",
+      "price": "45900/-",
+      "id": "8"
+    },
+    {
+      "brand": "apple",
+      "model": "iPhone 7 Plus",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone7plus__7tol3nquqqqm_large_2x.jpg",
+      "tagline": "Faster than ever.",
+      "price": "40900/-",
+      "id": "9"
+    }
+  ],
+  "oneplus": [
+    {
+      "brand": "oneplus",
+      "model": "OnePlus Nord CE2",
+      "image": "https://image01.oneplus.net/ebp/202202/08/1-M00-35-00-rB8LB2ICKGaAPcs5AAIROo5pgdI352.png",
+      "tagline": "A total powerhouse.",
+      "price": "23,999/-",
+      "id": "1"
+    },
+    {
+      "brand": "oneplus",
+      "model": "OnePlus 9RT",
+      "image": "https://image01.oneplus.net/ebp/202201/13/1-M00-33-77-rB8bwmHf7JCAacoOAAju9mvsF-s329.png",
+      "tagline": "As amazing as ever",
+      "price": "42,999/-",
+      "id": "2"
+    },
+    {
+      "brand": "oneplus",
+      "model": "OnePlus NORD 2",
+      "image": "https://image01.oneplus.net/ebp/202111/15/1-M00-30-2D-rB8bwmGSHqqAH2bzAAIDrTYOlus819.png",
+      "tagline": "Blast past fast.",
+      "price": "27,999/-",
+      "id": "3"
+    },
+    {
+      "brand": "oneplus",
+      "model": "OnePlus NORD CE",
+      "image": "https://image01.oneplus.net/ebp/202111/05/1-M00-2F-93-rB8bwmGEosqADZM8AAK6_eLRy20952.png",
+      "tagline": "Everything you could ask for.",
+      "price": "22,999/-",
+      "id": "4"
+    },
+    {
+      "brand": "oneplus",
+      "model": "OnePlus 9",
+      "image": "https://image01.oneplus.net/ebp/202111/03/1-M00-2F-77-rB8bwmGCOI-AAPA1AAHDLULnJLs750.png",
+      "tagline": "Faster than ever.",
+      "price": "44,999/-",
+      "id": "5"
+    },
+    {
+      "brand": "oneplus",
+      "model": "OnePlus 9 Pro",
+      "image": "https://image01.oneplus.net/ebp/202111/02/1-M00-2F-6B-rB8bwmGBOlSAAfFmAAHpf3oYVyE439.png",
+      "tagline": "Powerful.",
+      "price": "59,999/-",
+      "id": "6"
+    },
+    {
+      "brand": "oneplus",
+      "model": "OnePlus 8T",
+      "image": "https://image01.oneplus.net/ebp/202110/28/1-M00-2F-23-rB8LB2F6YwGAOG6uAAJPqyx6gvY324.png",
+      "tagline": "Serious power. Serious value.",
+      "price": "38,999/-",
+      "id": "7"
+    },
+    {
+      "brand": "oneplus",
+      "model": "OnePlus 8 Pro",
+      "image": "https://image01.oneplus.net/ebp/202110/29/1-M00-2F-2F-rB8LB2F7peWAOAfjAAIsWcVUg3c106.png",
+      "tagline": "The ultimate Phone.",
+      "price": "48,999/-",
+      "id": "8"
+    }
+  ],
+  "samsung": [
+    {
+      "brand": "samsung",
+      "model": "Galaxy S22+",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2202/gallery/in-galaxy-s22-s901-412948-sm-s901ezwdinu-thumb-530964698?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "72,999/-",
+      "id": "1"
+    },
+    {
+      "brand": "samsung",
+      "model": "Galaxy S21 FE 5G",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-g990elgginu/gallery/in-galaxy-s21-fe-g990-sm-g990elgginu-thumb-530606487?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "58,999/-",
+      "id": "2"
+    },
+    {
+      "brand": "samsung",
+      "model": "Galaxy S20 FE 5G",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-g781bzggins/gallery/in-galaxy-s20-fe-5g-g781-sm-g781bzggins-thumb-405304989?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "39,999/-",
+      "id": "3"
+    },
+    {
+      "brand": "samsung",
+      "model": "Galaxy S21+",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-g996bzkdinu/gallery/in-galaxy-s21-5g-g996-sm-g996bzkdinu-thumb-410194902?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "59,999/-",
+      "id": "4"
+    },
+    {
+      "brand": "samsung",
+      "model": "Galaxy S21+ Ultra",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-g998bzkginu/gallery/in-galaxy-s21-ultra-5g-g988-sm-g998bzkginu-thumb-410207559?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "89,999/-",
+      "id": "5"
+    },
+    {
+      "brand": "samsung",
+      "model": "Galaxy A53",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2202/gallery/in-galaxy-a53-5g-a536-416923-sm-a536elbgins-thumb-531436248?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "35,999/-",
+      "id": "6"
+    },
+    {
+      "brand": "samsung",
+      "model": "Galaxy A23",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a235flbhins/gallery/in-galaxy-a23-sm-a235-sm-a235flbhins-thumb-531577287?$320_320_PNG$$",
+      "tagline": "The ultimate Phone.",
+      "price": "19,999/-",
+      "id": "7"
+    },
+    {
+      "brand": "samsung",
+      "model": "Galaxy A13",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a135flbjins/gallery/in-galaxy-a13-sm-a135-417870-sm-a135flbjins-thumb-531576800?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "19,999/-",
+      "id": "8"
+    },
+    {
+      "brand": "samsung",
+      "model": "Z Fold 3",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold3-f926-5g-sm-f926bzkdinu-thumb-474118710?$320_320_PNG$",
+      "tagline": "The ultimate Phone.",
+      "price": "1,49,999/-",
+      "id": "9"
+    }
+  ],
+  "realme": [
+    {
+      "brand": "realme",
+      "model": "Realme GT 2 Pro",
+      "image": "https://image01.realme.net/general/20220321/1647863726372.png",
+      "tagline": "Greater Than You See.",
+      "price": "49,999/-",
+      "id": "1"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme 9 5G",
+      "image": "https://image01.realme.net/general/20220314/1647238315448.png",
+      "tagline": "5G. The Spedd of Light.",
+      "price": "19,999/-",
+      "id": "2"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme 9",
+      "image": "https://image01.realme.net/general/20220402/1648889532750.png",
+      "tagline": "108MP. Capture the spark.",
+      "price": "17,999/-",
+      "id": "3"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme narzo 50",
+      "image": "https://image01.realme.net/general/20220223/1645593445541.png",
+      "tagline": "Mighty Performance Boosted.",
+      "price": "12,999/-",
+      "id": "4"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme 9 Pro+",
+      "image": "https://image01.realme.net/general/20220131/1643635212824.png",
+      "tagline": "Capture the Light.",
+      "price": "24,999/-",
+      "id": "5"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme 9i",
+      "image": "https://image01.realme.net/general/20220126/1643190140852.png",
+      "tagline": "Next-Level Power",
+      "price": "12,999/-",
+      "id": "6"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme GT NEO 2",
+      "image": "https://image01.realme.net/general/20211008/1633694162498.png",
+      "tagline": "Everything in NEO",
+      "price": "31,999/-",
+      "id": "7"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme 8",
+      "image": "https://image01.realme.net/general/20210323/1616485282573.png",
+      "tagline": "In Style. Capture Infinity.",
+      "price": "15,999/-",
+      "id": "8"
+    },
+    {
+      "brand": "realme",
+      "model": "Realme X7 Pro 5G",
+      "image": "https://image01.realme.net/general/20210128/1611836952823.png",
+      "tagline": "Experience the Future.",
+      "price": "29,999/-",
+      "id": "9"
+    }
+  ],
+  "Compare": [
+    {
+      "id": 0,
+      "model": "iPhone 13 Pro Max",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone13_pro__f7s0ruhe13qm_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 1,
+      "model": "iPhone 13 Pro",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone13_pro__f7s0ruhe13qm_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 2,
+      "model": "iPhone 13",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone13__w5p2n5rp79um_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 3,
+      "model": "iPhone 13 mini",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone13_mini__ieghmkp10466_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 4,
+      "model": "iPhone SE",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphoneSE_3rd_gen__e5larnogqdkm_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 5,
+      "model": "iPhone 12 Pro",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone12_pro__bfo940esi5gy_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 6,
+      "model": "iPhone 12 Pro Max",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone12_pro_max__cj8ffo39zg9y_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 7,
+      "model": "iPhone 12 Mini",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone12_mini__bfvrwjpq235u_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 8,
+      "model": "iPhone 12",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone12__d797xq59zw02_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 9,
+      "model": "iPhone 11 Pro",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone11_pro__ceb1839f4rv6_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 10,
+      "model": "iPhone 11",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone11__26yyz21ll02i_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 11,
+      "model": "iPhone 7 Plus",
+      "image": "https://www.apple.com/v/iphone/compare/z/images/overview/all_models_iphone7plus__7tol3nquqqqm_large_2x.jpg",
+      "features": [
+        "Alpine green, sierra blue, silver, gold and graphite",
+        "15.4 cm (6.1-inch) Super Retina XDR display with ProMotion technology, HDR and True Tone1",
+        "Ceramic Shield front, textured matt glass back and stainless steel design",
+        "Water resistant to a depth of 6 metres for up to 30 minutes (IP68)4",
+        "Pro 12MP camera system (Telephoto, Wide and Ultra Wide) with Portrait mode, Night mode, Night mode portraits, Deep Fusion, Smart HDR 4, Photographic Styles, Apple ProRAW, ProRes, Cinematic mode in 1080p at 30 fps and Dolby Vision HDR video recording up to 4K at 60 fps",
+        "LiDAR Scanner for Night mode portraits, faster autofocus in low light and improved AR experiences",
+        "12MP TrueDepth front camera with Portrait mode, Night mode, Deep Fusion, Smart HDR 4, Photographic Styles, Cinematic mode in 1080p at 30 fps, Dolby Vision HDR video recording up to 4K at 60 fps and slow-motion video support for 1080p at 120 fps",
+        "5G and Gigabit LTE2",
+        "A15 Bionic chip with new 6-core CPU with 2 performance and 4 efficiency cores, 5-core GPU and 16-core Neural Engine"
+      ]
+    },
+    {
+      "id": 12,
+      "model": "Oneplus Nord CE 2",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    },
+    {
+      "id": 13,
+      "model": "Oneplus Nord 2",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    },
+    {
+      "id": 14,
+      "model": "Oneplus Nord CE",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    },
+    {
+      "id": 15,
+      "model": "Oneplus 9RT",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    },
+    {
+      "id": 16,
+      "model": "Oneplus 9",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    },
+    {
+      "id": 17,
+      "model": "Oneplus 9 Pro",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    },
+    {
+      "id": 18,
+      "model": "Oneplus 8T",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    },
+    {
+      "id": 19,
+      "model": "Oneplus 8 Pro",
+      "image": "https://www.oneplus.in/content/dam/oasis/page/2022/operation/feb/0211/nord-ce-2-5g/Gray.png",
+      "features": [
+        "Height: 16.06 cm",
+        "Width: 7.32 cm",
+        "Thickness: 0.78 cm",
+        "Weight: 173 g",
+        "Refresh Rate: 90Hz",
+        "Type: Fluid AMOLED",
+        "Ambient display",
+        "Dark mode",
+        "AI Color Enhancement",
+        "Operating System: OxygenOS based on Android™ 11",
+        "CPU: MediaTek Dimensity 900",
+        "RAM: 6GB/8GB LPDDR4X",
+        "Storage: 128GB UFS2.2",
+        "Battery: 4500mAh (dual-cell 2,250mAh batteries, non-removable) 65W SUPERVOOC",
+        "Main Camera: 64MP",
+        "Ultra Wide: 8MP",
+        "Macro Lens: 2MP",
+        "4K video at 30 fps\n1080p video at 30/60 fps\nSLO-MO: 1080p video at 120 fps, 720p video at 240 fps\nTime-Lapse: 1080p video at 30 fps",
+        "Front Camera\nSensor: Sony IMX471\nMegapixels: 16",
+        "AI Scene Enhancement, AI Hightlight Video, Dual-view Video, HDR, Nightscape, Portrait mode, Pano, Retouching, Filters"
+      ]
+    }
+  ],
+  "users": []
+}

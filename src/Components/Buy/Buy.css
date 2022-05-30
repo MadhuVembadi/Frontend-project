@@ -1,0 +1,47 @@
+.buyProduct .card:hover{
+    transform: scale(1);
+}
+
+.buyProduct .card .card-body h3 {
+    font-size: 2vw;
+    
+}
+@media (min-width:300px) and (max-width:650px){
+.buyProduct .card .card-body h3,p,h6 {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width:0px) and (max-width:299px) {
+
+    .buyProduct .card .card-body h3,h6,
+    p {
+        font-size: 3.5vw;
+    }
+}
+
+.buyProduct .btn{
+    border:1px solid #777;
+}
+
+@media(min-width:576px) and (max-width:1300px){
+.buyProduct .collapse .row .col-12 div {
+        height: 25%;
+    }
+}
+
+@media (min-width:576px) and (max-width:768px){
+    .buyProduct .imagecol{
+        height:50vh;
+    }
+}
+
+@media (min-width:0px) and (max-width:575px) {
+    .buyProduct .imagecol {
+        height: 30vh;
+    }
+}
+
+.buyProduct .imagecol{
+    background: linear-gradient(51deg,#D0E1F9 0 50%, #4D648D 50% 100%);
+}

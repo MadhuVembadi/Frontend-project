@@ -1,0 +1,14 @@
+.bag .card:hover{
+    transform: scale(1);
+}
+
+.bag button{
+    border-radius: 20px;
+}
+
+.bag .pay{
+    width:100%;
+    height:100%;
+    object-fit:fill;
+    overflow: hidden;
+}

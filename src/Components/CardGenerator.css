@@ -1,0 +1,12 @@
+.cardGenerator .card-title{
+    font-size: 2vw;
+}
+
+@media (min-width:0px) and (max-width:576px){
+    .cardGenerator .card-title {
+            font-size: 3.2vw;
+        }
+    .cardGenerator button {
+            font-size: 3.2vw;
+        }
+}
